@@ -1,0 +1,13 @@
+graphics\inventory\blue-gem.png,blue_gem
+graphics\inventory\purple-gem.png,purple_gem
+graphics\inventory\pink-gem.png,pink_gem
+graphics\inventory\screwdriver.png,screwdriver
+graphics\inventory\empty-glass.png,empty_glass
+graphics\inventory\full-glass.png,full_glass
+graphics\inventory\flashlight.png,flashlight
+graphics\inventory\folded-paper.png,folded_paper
+graphics\inventory\golden-key.png,golden_key
+graphics\inventory\silver-key.png,silver_key
+graphics\inventory\knife.png,knife
+graphics\inventory\ocular.png,ocular
+graphics\inventory\rubber-gloves.png,rubber_gloves

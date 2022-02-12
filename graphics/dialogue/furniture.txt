@@ -1,0 +1,23 @@
+drawer_lr,A drawer.
+bed,It’s too dark to see underneath.
+painting,A pretty painting. It’s screwed to the wall. Unusual.
+safe,A safe. There’s a gem on the door. Some are missing.
+telescope,A telescope. It’s missing something.
+bunny,A cute bunny plush.
+desk_1,A brand new computer. There’s something on the%screen.
+desk_2,A drawer.
+table_1,A table.
+table_2,[SPACE] interact / use item%[I] inventory%[F11] fullscreen
+wardrobe,A wardrobe. There are drawings taped to it.
+big_flower,It’s wilting. 
+small_plant,It’s still growing.
+drawer_br,A drawer.
+mirror,There’s a figure in the mirror. It’s asking for a%password.
+sink,A sink. It’s never been used.
+toilet,A ceramic toilet.
+trash,It’s a trash bin. There’s something inside.
+bathtub,There’s no time to relax in the bath.
+towel_rack,It’s a towel rack.
+crack,There’s a slight crack in the wall.
+cover,It's locked.
+door,It's locked.

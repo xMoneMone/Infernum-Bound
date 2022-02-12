@@ -1,0 +1,13 @@
+pink_gem,A shiny pink gem.
+blue_gem,A shiny blue gem.
+purple_gem,A shiny purple gem.
+ocular,A wide-angle eyepiece.
+screwdriver,A screwdriver.
+flashlight,A flashlight.
+golden_key,A golden key.
+silver_key,A silver key with a big pink ribbon.
+folded_paper,A folded piece of paper. It has “DIONA” written on it.
+rubber_gloves,A pair of rubber gloves.
+empty_glass,An empty glass.
+full_glass,A glass of water.
+knife,A knife.
