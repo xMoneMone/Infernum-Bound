@@ -1,3 +1,5 @@
+A very short pygame game that we made as our first python project.
+
 Play Infernum Bound:
 https://yokomone.itch.io/infernumbound
 
