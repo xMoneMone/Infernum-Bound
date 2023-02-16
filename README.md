@@ -1,4 +1,4 @@
-A very short pygame game that we made as our first python project.
+A short pygame top-down game.
 
 Play Infernum Bound:
 https://yokomone.itch.io/infernumbound
